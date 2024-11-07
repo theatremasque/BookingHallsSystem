@@ -10,7 +10,8 @@ Technology stack:
   - Redis
   - NUnit
   - Moq
-  - Hangfire 
+  - Hangfire
+    
 Arhitecture and design patterns:
   - DTO
   - CQRS
